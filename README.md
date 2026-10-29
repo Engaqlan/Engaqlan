@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Aqlan Ahmed Aqlan
 
-<!--
-**Engaqlan/Engaqlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I am an IT student (Level 3) at the University of Science and Technology, Ibb.
+- 🚀 Passionate about backend architecture, API engineering, and secure system design.
+- 🛠️ **Core Tech Stack:**
+  - **Languages:** Python, C++, Java, PHP, JavaScript
+  - **Backend & Frameworks:** FastAPI, Laravel, SQLAlchemy (AsyncSession), Pydantic
+  - **Databases:** MySQL, SQLite
+  - **Mobile:** Flutter
+  - **Tools & Environments:** Git, XAMPP, Termux, Linux
 
-Here are some ideas to get you started:
+- 📌 **Featured Projects:**
+  - **Tack Me:** An intercity carpooling and trip booking platform tailored for transport routes, powered by a FastAPI backend and MySQL.
+  - **Full-Stack Academic Apps:** Integrating Laravel APIs with MySQL and Flutter interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 **How to reach me:** Telegram [@Eng_a_aqlan](https://t.me/Eng_a_aqlan)
